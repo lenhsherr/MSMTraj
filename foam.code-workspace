@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../OMMTK"
+		},
+		{
+			"path": "../MDLauncher"
+		},
+		{
+			"path": "../foldingathome_adaptive"
+		},
+		{
+			"path": "../foam_scratch"
+		}
+	],
+	"settings": {}
+}
