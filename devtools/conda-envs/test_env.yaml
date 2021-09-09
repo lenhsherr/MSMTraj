@@ -8,11 +8,15 @@ dependencies:
     # Base depends
   - python
   - pip
+  - numpy 
+  - mdtraj
+  - json
 
     # Testing
   - pytest
   - pytest-cov
   - codecov
+  - mdshare
 
     # Pip-only installs
   #- pip:
